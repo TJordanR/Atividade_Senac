@@ -8,7 +8,5 @@
 </head>
 <body>
     
-    <div style="color: red">Teste Div</div>
-
 </body>
 </html>
